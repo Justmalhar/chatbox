@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src='./doc/icon.png' width='30'>
-<span>Chatbox</span>
+<span>Chat Magic</span>
 </h1>
 <p align="center">
     <em>Your Ultimate AI Copilot on the Desktop. <br />Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux</em>
